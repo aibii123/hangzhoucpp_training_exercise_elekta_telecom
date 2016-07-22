@@ -1,0 +1,3 @@
+# hangzhoucpp_training_exercise_elekta_telecom
+
+Hello world
